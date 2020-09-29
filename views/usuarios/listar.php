@@ -3,11 +3,7 @@
         <div class="col-md-12">
             <div class="row row--titubox">
                 <div class="col-md-12">
-                    <h1 class="row__titubox--titulo">Tiempos</h1>
-                    <br>
-                    <p class="row__titubox--subtitulo">
-                        En el siguiente listado se puede visualizar la información de los tiempos discriminado por actividades y fechas
-                    </p>
+                    <h1 class="row__titubox--titulo">Administración de usuarios</h1>
                 </div>
             </div>
         </div>
@@ -25,10 +21,10 @@
                 <thead>
                     <tr>
                         <th scope="col">#</th>
-                        <th scope="col">Usuario</th>
-                        <th scope="col">Fecha inicial</th>
-                        <th scope="col">Fecha final</th>
-                        <th scope="col">Estado</th>
+                        <th scope="col">Nombre completo</th>
+                        <th scope="col">Login</th>
+                        <th scope="col">Password</th>
+                        <th scope="col">Permiso</th>
                         <th scope="col"></th>
                     </tr>
                 </thead>
