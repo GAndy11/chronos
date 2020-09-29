@@ -1,0 +1,95 @@
+input{
+    color: #b3b8be !important;
+    font-size: 21px !important;
+    border-radius: 5px !important;
+    margin-bottom: 23px !important;
+}
+
+.container{
+    font-family: 'Nunito', sans-serif;
+}
+
+.contenedor{
+    font-family: 'Nunito', sans-serif;
+}
+
+.row--logobox{
+    margin-top: 60px;
+    text-align: center;
+}
+
+.row--logobox img{
+    width: 100px;
+}
+
+.row--titubox{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.row__titubox--titulo{
+    font-weight: 600;
+}
+
+.row__titubox--subtitulo{
+    padding-bottom: 40px;
+    font-size: 21px;
+    color: gray;
+    font-weight: 500;
+}
+
+.row__landingbox--imglanding{
+    width: 500px;
+}
+
+.row__landingbox--loginbox{
+    border-radius: 20px 40px;
+    padding: 35px 50px 50px 50px;
+    font-size: 21px;
+    font-weight: 600;
+    -webkit-box-shadow: 0px 0px 5px 10px rgba(245,245,245,1);
+    -moz-box-shadow: 0px 0px 5px 10px rgba(245,245,245,1);
+    box-shadow: 0px 0px 5px 10px rgba(245,245,245,1);
+}
+
+.landingbox__loginbox--btnbox{
+    width: 180px;
+    color: rgba(0, 0, 0, 0.9);
+    font-size: 20px; 
+    border-left: 2px solid #17B7E2;
+    padding: 5px;  
+}
+
+.landingbox__loginbox--btnbox button{
+    font-size: 20px;
+}
+  
+.landingbox__loginbox--btnbox:hover{
+    color: white;
+    text-decoration: none;
+    background-color: #17B7E2;
+    padding: 10px;
+    transition: 0.3s; 
+}
+
+.landingbox__loginbox--btnbox button:hover{
+    color: white;
+    font-size: 20px;
+}
+
+.contenedorhome{
+    margin: 0;
+    padding: 0;
+}
+
+.contenidoprincipal{
+    height: 1000px;
+}
+
+.menulateral{
+    height: 100%;
+}
+
+.mensaje-box{
+    color: red;
+}
