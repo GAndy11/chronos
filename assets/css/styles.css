@@ -93,3 +93,27 @@ input{
 .mensaje-box{
     color: red;
 }
+
+.btn-box{
+    width: 150px;
+    color: rgba(0, 0, 0, 0.9);
+    font-size: 20px; 
+    border-left: 2px solid #17B7E2;
+    padding: 5px;  
+}
+
+.btn-box button{
+    font-size: 20px;
+}
+
+.btn-box:hover{
+    color: white;
+    text-decoration: none;
+    background-color: #17B7E2;
+    transition: 0.3s; 
+}
+
+.btn-box button:hover{
+    color: white;
+    font-size: 20px;
+}
